@@ -1,4 +1,4 @@
-# Clone Spotify
+# Relógio Virtual 
 
 ![preview](./.github/preview.png)
 
@@ -6,11 +6,12 @@
 
 Projeto construído para fortalecer estudos de JavaScript e fazer uso de funções horas.
 
-[Clique aqui para acessar](https://matheus-santos01.github.io/clone-spotify/)
+[Clique aqui para acessar](https://relogio-omega.vercel.app/)
 
 ## 🛠️ Tecnologias
 - HTML 
 - CSS
+- JS
 - Git e Github
 
 ## Contato
