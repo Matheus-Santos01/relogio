@@ -3,7 +3,7 @@ function createBoxHours(hour){
     return `
         <div class="box">
             <span class="hour">${hour}</span>
-            <span></p>
+            <span>horas</p>
         </div>
     `
 }
